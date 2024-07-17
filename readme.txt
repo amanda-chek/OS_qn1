@@ -1,1 +1,2 @@
-.
+- Each Door holographic will be unlock when user able to answer the questions
+- each section will have a short information of the tested topic and also quiz
