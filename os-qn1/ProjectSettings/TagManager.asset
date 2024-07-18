@@ -4,7 +4,7 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - QuizItem
+  - boundaryCollider
   layers:
   - Default
   - TransparentFX
