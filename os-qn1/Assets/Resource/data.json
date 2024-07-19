@@ -1,0 +1,10 @@
+{
+    "Object1": {
+        "name": "Object 1",
+        "description": "This is the first object."
+    },
+    "Object2": {
+        "name": "Object 2",
+        "description": "This is the second object."
+    }
+}

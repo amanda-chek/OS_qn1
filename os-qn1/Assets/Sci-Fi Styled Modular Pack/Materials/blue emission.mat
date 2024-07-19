@@ -12,15 +12,13 @@ Material:
   m_Parent: {fileID: 2100000, guid: 03f246362faaab94cb2fb2b674a2ddc1, type: 2}
   m_ModifiedSerializedProperties: 2
   m_ValidKeywords:
-  - _ALPHAPREMULTIPLY_ON
   - _EMISSION
   m_InvalidKeywords: []
   m_LightmapFlags: 1
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
-  stringTagMap:
-    RenderType: Transparent
+  stringTagMap: {}
   disabledShaderPasses: []
   m_LockedProperties: 
   m_SavedProperties:

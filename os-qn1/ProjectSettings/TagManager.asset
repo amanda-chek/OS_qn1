@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - boundaryCollider
+  - textGameObject
+  - doneBTN
   layers:
   - Default
   - TransparentFX

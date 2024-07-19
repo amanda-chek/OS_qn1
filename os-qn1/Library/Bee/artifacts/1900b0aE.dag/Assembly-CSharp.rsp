@@ -353,8 +353,10 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.36f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.36f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/CameraFollow.cs"
+"Assets/ChangeCanvasContent.cs"
 "Assets/PlayerMovement.cs"
 "Assets/PreventPassThrough.cs"
+"Assets/ShowTextOnApproach.cs"
 -langversion:9.0
 /deterministic
 /optimize+

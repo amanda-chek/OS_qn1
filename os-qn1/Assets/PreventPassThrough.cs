@@ -8,6 +8,7 @@ public class PreventPassThrough : MonoBehaviour
     {
         // Get the player's Transform component
         playerTransform = GameObject.FindGameObjectWithTag("Player").transform;
+        Debug.Log(playerTransform);
     }
 
     void OnTriggerStay(Collider other)
@@ -15,7 +16,6 @@ public class PreventPassThrough : MonoBehaviour
         // Check if the trigger is with the player
         if (other.gameObject.tag == "Player")
         {
-            Debug.Log("HI");
             // Calculate the correction vector to move the player back
             Vector3 correction = (transform.position - other.transform.position).normalized * 0.01f;
 
