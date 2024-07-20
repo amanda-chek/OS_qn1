@@ -11,8 +11,8 @@ draw_set_valign(fa_middle);
 /// @DnDHash : 04279167
 /// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y_relative" "1"
-/// @DnDArgument : "caption" ""Question =  " "
-draw_text(x + 0, y + 0, string("Question =  " ) + "");
+/// @DnDArgument : "caption" ""Question   " "
+draw_text(x + 0, y + 0, string("Question   " ) + "");
 
 /// @DnDAction : YoYo Games.Drawing.Set_Font
 /// @DnDVersion : 1
