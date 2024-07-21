@@ -27,8 +27,8 @@ draw_set_font(Font2);
 /// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y" "50"
 /// @DnDArgument : "y_relative" "1"
-/// @DnDArgument : "caption" ""\n Pick the following data boxes if ""
-draw_text(x + 0, y + 50, string("\n Pick the following data boxes if ") + "");
+/// @DnDArgument : "caption" ""\n Pick the following data boxes in ORDER if ""
+draw_text(x + 0, y + 50, string("\n Pick the following data boxes in ORDER if ") + "");
 
 /// @DnDAction : YoYo Games.Drawing.Set_Alignment
 /// @DnDVersion : 1.1
